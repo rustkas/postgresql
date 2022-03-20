@@ -8,4 +8,4 @@
 
 - [Python примеры (example2)](/example2)
 - [Python примеры (example3)](/example3)
-
+- [Python примеры (example4)](/example4)
